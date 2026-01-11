@@ -23,6 +23,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -58,6 +59,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -92,6 +94,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -128,6 +131,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -163,6 +167,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -199,6 +204,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -235,6 +241,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -270,6 +277,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -310,6 +318,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -350,6 +359,7 @@ Main() {
 **Questions:**
 - What gets printed in Static Scope? `_______`
 - What gets printed in Dynamic Scope? `_______`
+
 **Workspace:**
 
 ```
@@ -367,5 +377,6 @@ Main() {
 ---
 ## Check Your Answers
 Ready to see how you did? → [View Answer Key](ANSWERS.md)
+
 
 Don't peek too early! 😉
